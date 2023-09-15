@@ -10,7 +10,7 @@
 
 **Data imported from** - PostgreSQL
 
-**Data visualization** - Power Bi
+**Data visualization and Data cleaning** - Power Bi and Power Query
 
 ## Client Requirements :
 
